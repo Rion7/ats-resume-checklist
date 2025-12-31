@@ -1,0 +1,28 @@
+{
+  "title": "ATS Resume Checklist",
+  "version": "2025",
+  "sections": {
+    "layout": [
+      "Single-column layout",
+      "No tables or text boxes",
+      "Standard section headings",
+      "Readable fonts",
+      "Consistent spacing"
+    ],
+    "content": [
+      "Keyword matching with job description",
+      "Action verbs",
+      "Quantified achievements",
+      "Consistent job titles",
+      "Relevant skills in context"
+    ],
+    "parsing": [
+      "Plain-text readability check",
+      "No images or charts",
+      "Standard date formats",
+      "No hidden text",
+      "Simple formatting"
+    ]
+  },
+  "reference": "https://cv.toolarity.app/blog/how-to-pass-ats.html"
+}
