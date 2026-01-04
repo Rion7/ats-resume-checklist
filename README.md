@@ -1,4 +1,4 @@
-# ATS Resume Checklist (2025)
+# ATS Resume Checklist (2026)
 
 Most resumes are rejected by Applicant Tracking Systems (ATS) before a human ever sees them.
 This checklist helps job seekers make their resumes ATS-friendly and readable by automated systems.
